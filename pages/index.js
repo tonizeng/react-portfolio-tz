@@ -529,17 +529,17 @@ export default function Home() {
                 </div>
 
                 <h1 class="text-l pb-1 underline">
-                  DATA VISUALIZATION & ANALYSIS
+                  DATA SCIENCE
                 </h1>
                 <div class="flex justify-center text-sm dark:text-gray-800">
                   <div class="p-2">
                     <p class="bg-lightsage p-1 px-2 rounded-md">SQL</p>
                   </div>
                   <div class="p-2">
-                    <p class="bg-lightsage p-1 px-2 rounded-md">Power BI</p>
+                    <p class="bg-lightsage p-1 px-2 rounded-md">Seaborn</p>
                   </div>
                   <div class="p-2 pb-4">
-                    <p class="bg-lightsage p-1 px-2 rounded-md">Tableau</p>
+                    <p class="bg-lightsage p-1 px-2 rounded-md">Tensorflow</p>
                   </div>
                   <div class="p-2">
                     <p class="bg-lightsage p-1 px-2 rounded-md">pandas</p>
@@ -549,9 +549,6 @@ export default function Home() {
                   </div>
                   <div class="p-2 pb-4">
                     <p class="bg-lightsage p-1 px-2 rounded-md">NumPy</p>
-                  </div>
-                  <div class="p-2 pb-4">
-                    <p class="bg-lightsage p-1 px-2 rounded-md">Seaborn</p>
                   </div>
                 </div>
               </div>
