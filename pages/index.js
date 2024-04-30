@@ -117,7 +117,7 @@ export default function Home() {
                     </a>
                     <a
                       class="bg-sage text-white px-4 py-2 text-sm dark:bg-lightsage dark:text-gray-800"
-                      href="https://drive.google.com/file/d/10vtLo0KY79duaEQFbb8qkVKktwHcZpa3/view?usp=sharing"
+                      href="https://docs.google.com/document/d/1ThIRgAkM-yhjX-6RRbXNlYElW0rMDNDlK6qcKwu0sWs/edit?usp=sharing"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -396,7 +396,7 @@ export default function Home() {
               <div class="p-10 pt-3 flex">
                 <a
                   class="bg-sage text-white px-4 py-2 text-sm dark:bg-lightsage dark:text-gray-800"
-                  href="https://drive.google.com/file/d/1qAYthz5oeMTcoqglEGBNWQJMsWW3LxWb/view?usp=sharing"
+                  href="https://docs.google.com/document/d/1ThIRgAkM-yhjX-6RRbXNlYElW0rMDNDlK6qcKwu0sWs/edit?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
