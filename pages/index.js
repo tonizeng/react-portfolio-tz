@@ -229,8 +229,9 @@ export default function Home() {
                             href="https://github.com/tonizeng/AirCast"
                             target="_blank"
                             rel="noopener noreferrer"
-                          ></a>
+                          >
                           <AiFillGithub class="text-2xl"></AiFillGithub>
+                          </a>
                           <a
                             href="https://youtu.be/LFXqSpDlK8E"
                             target="_blank"
