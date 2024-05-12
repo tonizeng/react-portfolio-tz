@@ -450,6 +450,9 @@ export default function Home() {
                       </li>
                       <li class="list-none">
                         <span class="text-sage">&rarr;</span> Machine Learning
+                      </li>                      
+                      <li class="list-none">
+                        <span class="text-sage">&rarr;</span> DevOps
                       </li>
                     </ul>{" "}
                   </div>
