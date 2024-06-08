@@ -314,15 +314,15 @@ export default function Home() {
                 </p>
                 <h1 class="text-xl font-medium">RBC</h1>
                 <p class="text-darksage text-l italic pb-2 dark:text-lightsage">
-                Automation Analyst (Digital DevOps Team)
+                DevOps Engineer
                 </p>
                 <p class="text-gray-600 text-sm font-light dark:text-gray-200">
-                  Within the DevOps team in Online Banking, I created a version control sync tool for Github and z/OS systems,
-                  and created safeguards to enforce merge procedures within GitHub.
+                  As part of the DevOps team, I implemented a Jenkins CI/CD pipeline to enhance code quality and identified 
+                  improvements for existing deployment processes.
                 </p>
                 <br></br>
                 <p class="font-medium text-sm text-gray-600 dark:text-gray-200">
-                  Tools: Jenkins, Groovy, Java, GitHub, z/OS, MVS, Unix{" "}
+                  Tools: Jenkins, Groovy, Java, GitHub, z/OS, Unix{" "}
                 </p>
               </div>
 
@@ -332,7 +332,7 @@ export default function Home() {
                 </p>
                 <h1 class="text-xl font-medium">METROLINX</h1>
                 <p class="text-darksage text-l italic pb-2 dark:text-lightsage">
-                Data Automation Engineer (Capital Project Group Reporting Team)
+                Data Automation Engineer
                 </p>
                 <p class="text-gray-600 text-sm font-light dark:text-gray-200">
                   Within the Capital Project Group Reporting Team, I automated manual data processes and designed applications to
