@@ -300,11 +300,11 @@ export default function Home() {
                 Undergraduate Research Assistant
                 </p>
                 <p class="text-gray-600 text-sm font-light dark:text-gray-200">
-                  Incoming...
+                  As a machine learning developer, I am developing machine learning models with Python, OpenCV, PyTorch, and NumPy for image processing and analysis.
                 </p>
                 <br></br>
                 <p class="font-medium text-sm text-gray-600 dark:text-gray-200">
-                  Tools: Python, Deep Learning, Reinforcement Learning{" "}
+                  Tools: Python, OpenCV, PyTorch, Deep Learning, Reinforcement Learning{" "}
                 </p>
               </div>
 
@@ -317,12 +317,12 @@ export default function Home() {
                 DevOps Engineer
                 </p>
                 <p class="text-gray-600 text-sm font-light dark:text-gray-200">
-                  As part of the DevOps team, I implemented a Jenkins CI/CD pipeline to enhance code quality and identified 
-                  improvements for existing deployment processes.
+                  As part of the DevOps team, I developed validation pipelines for production code, spearheaded bottleneck resolution for deployment pipelines,
+                  and enabled department-wide mobile deployments for DevOps infrastructure.
                 </p>
                 <br></br>
                 <p class="font-medium text-sm text-gray-600 dark:text-gray-200">
-                  Tools: Jenkins, Groovy, Java, GitHub, z/OS, Unix{" "}
+                  Tools: Jenkins, Java, GitHub, z/OS, Docker, Unix, React {" "}
                 </p>
               </div>
 
@@ -335,13 +335,12 @@ export default function Home() {
                 Data Automation Engineer
                 </p>
                 <p class="text-gray-600 text-sm font-light dark:text-gray-200">
-                  Within the Capital Project Group Reporting Team, I automated manual data processes and designed applications to
-                  enhance workflow efficiency. I also developed relational databases for POC initiatives and preprocessed data
-                  from Metrolinx transit projects to enhance readibility on Power BI dashboards.
+                  Within the Capital Project Group Reporting Team, I led the implementation of automated file validation with Python to enhance data ETL efficiency,
+                  developed SQL queries for Power BI dashboards, and spearheaded Azure DevOps integration with CI/CD pipelines.
                 </p>
                 <br></br>
                 <p class="font-medium text-sm text-gray-600 dark:text-gray-200">
-                  Tools: Python, Power BI, DAX, Azure
+                  Tools: Python, Pandas, Power BI, GitHub, DAX, Azure
                   DevOps, SQL{" "}
                 </p>
               </div>
